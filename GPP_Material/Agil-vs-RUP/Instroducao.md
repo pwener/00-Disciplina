@@ -7,3 +7,9 @@ O produto de software também possui outra característica única, é totalme
 Com base nessas dificuldades, vários processo durante a história da Engenharia de Software foram desenvolvidos, par amenizar esses problemas. Podemos citar destes processos, os processos cascata, interativo, espiral, incremental.
 
 Considerando que para cada contexto de desenvolvimento um processo pode ser melhor aplicado, foram analisadas e comparadas uma versus a outra duas abordagens: Rational Unified Process(RUP) e metodologias ágeis(MA).
+
+### Refências
+
+- VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003;
+- TAVARES, A. Gerência de Projetos com PMBOK e Scrum: um estudo de caso. Gravataí, Brasil. 2008;
+- SCHWABER, K. Agile Project Management with Scrum. Microsoft Press. 2004;

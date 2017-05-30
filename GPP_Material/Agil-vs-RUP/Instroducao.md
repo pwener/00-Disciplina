@@ -6,7 +6,7 @@ O produto de software também possui outra característica única, é totalme
 
 Com base nessas dificuldades, vários processo durante a história da Engenharia de Software foram desenvolvidos, par amenizar esses problemas. Podemos citar destes processos, os processos cascata, interativo, espiral, incremental.
 
-Considerando que para cada contexto de desenvolvimento um processo pode ser melhor aplicado, foram analisadas e comparadas uma versus a outra duas abordagens: Rational Unified Process(RUP) e metodologias ágeis(MA).
+Considerando que para cada contexto de desenvolvimento um processo pode ser melhor aplicado, foram analisadas e comparadas - nos quisitos de escopo, custo, qualidade e risco - uma versus a outra duas abordagens: Rational Unified Process(RUP) e metodologias ágeis(MA).
 
 ### Refências
 
